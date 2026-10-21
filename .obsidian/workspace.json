@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "fe908872eebb9d41",
+    "type": "split",
+    "children": [
+      {
+        "id": "19b75870228063a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57827bed4c5fbf29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "group_docs/Skills Inventory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skills Inventory"
+            }
+          },
+          {
+            "id": "b13df52295955bbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "group_docs/sprint_notes/Sprint Zero - Due 15th September.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint Zero - Due 15th September"
+            }
+          },
+          {
+            "id": "e5f2c9c58b9791b5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "spec/Task-1-Use-Cases.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Task-1-Use-Cases"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2aa1e5e5c99a3f26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd3fa7bae3113494",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "spec/UFCFTR-30-3-First Sit-Task 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "UFCFTR-30-3-First Sit-Task 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49473e1e5fcaa8d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "51e5388f10bc3a8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a461f8338bfec5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac47678cc6dae386",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7624a962aea21414",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8898cc03bfb1fb0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1774b1c2e7bb6327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d4639032a747377",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "spec/Task-1-Use-Cases.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fda9f72675cb799c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "spec/Task-1-Use-Cases.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bc02791256d46e2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1b27bca7d0b474aa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0d1ff135fc4f9da6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "spec/Task-1-Use-Cases.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e5f2c9c58b9791b5",
+  "lastOpenFiles": [
+    "spec/Case Study - v2.pdf",
+    "group_docs/sprint_notes/Sprint One - Due 22nd October.md",
+    "group_docs/sprint_notes/Sprint Zero - Due 15th September.md",
+    "spec/UFCFTR-30-3-First Sit-Task 1.pdf",
+    "spec/Task-1-Use-Cases.pdf",
+    "group_docs/Skills Inventory.md",
+    "group_docs/sprint_notes",
+    "group_docs/Camunda learning prompts.md"
+  ]
+}
