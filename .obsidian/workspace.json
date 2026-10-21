@@ -27,35 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "group_docs/sprint_notes/Sprint Zero - Due 15th September.md",
+                "file": "group_docs/sprint_notes/Sprint One - Due 22nd October.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sprint Zero - Due 15th September"
+              "title": "Sprint One - Due 22nd October"
             }
           },
           {
-            "id": "e5f2c9c58b9791b5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "spec/Task-1-Use-Cases.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Task-1-Use-Cases"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "2aa1e5e5c99a3f26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dd3fa7bae3113494",
+            "id": "79857635d3af9f22",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -64,6 +45,39 @@
               },
               "icon": "lucide-file-text",
               "title": "UFCFTR-30-3-First Sit-Task 1"
+            }
+          },
+          {
+            "id": "dd3fa7bae3113494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "group_docs/Task.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "67dde35f5fc83d7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e6ba0b4509798b0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "spec/Task-1-Use-Cases.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Task-1-Use-Cases"
             }
           }
         ]
@@ -144,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spec/Task-1-Use-Cases.pdf",
+                "file": "group_docs/Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spec/Task-1-Use-Cases.pdf",
+                "file": "group_docs/Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -206,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spec/Task-1-Use-Cases.pdf",
+                "file": "group_docs/Task.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -233,15 +247,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "e5f2c9c58b9791b5",
+  "active": "dd3fa7bae3113494",
   "lastOpenFiles": [
-    "spec/Case Study - v2.pdf",
-    "group_docs/sprint_notes/Sprint One - Due 22nd October.md",
-    "group_docs/sprint_notes/Sprint Zero - Due 15th September.md",
-    "spec/UFCFTR-30-3-First Sit-Task 1.pdf",
-    "spec/Task-1-Use-Cases.pdf",
+    "group_docs/Stakeholder Analysis.md",
     "group_docs/Skills Inventory.md",
-    "group_docs/sprint_notes",
-    "group_docs/Camunda learning prompts.md"
+    "group_docs/Camunda learning prompts.md",
+    "group_docs/Task.md",
+    "Proj.md",
+    "spec/UFCFTR-30-3-First Sit-Task 1.pdf",
+    "spec/Case Study - v2.pdf",
+    "spec/Task-1-Use-Cases.pdf",
+    "group_docs/sprint_notes/Sprint Zero - Due 15th September.md",
+    "group_docs/sprint_notes/Sprint One - Due 22nd October.md",
+    "group_docs/sprint_notes"
   ]
 }

@@ -21,6 +21,15 @@ Please be reminded of the following:
 Please ensure that you **read the assessment brief carefully**, particularly the sections explaining how your final marks are calculated. The marking structure, weightings and calculation methods are all explained in the brief.
 
 ## TO DO LIST
+week 0
+• review and analyse the case study  
+• select an appropriate project management approach/platform 
+• identify initial roles and responsibilities - FINISH SKILLS INVENTORY!!
+• begin stakeholder analysis 
+• establish an initial product backlog 
+• identify candidate major functionalities 
+
+week 1
 • a strategic BPMN model representing the enterprise
 • analysis of major business processes and organisational responsibilities
 • identification and scoping of the two candidate major functionalities
