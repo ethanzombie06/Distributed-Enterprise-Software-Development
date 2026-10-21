@@ -5,7 +5,7 @@
 ## Django or another web framework:
 - Ethan - Medium Confidence
 ## Docker/ Containers:
-- Ethan - Low Confidence
+- Ethan - Low 
 ## Git and GitHub/GitLab:
 - Ethan - Medium Confidence
 ## Process modelling (BPMN, UML, flowcharts)
