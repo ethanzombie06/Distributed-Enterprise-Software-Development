@@ -25,7 +25,6 @@ week 0
 • review and analyse the case study  
 • select an appropriate project management approach/platform 
 • identify initial roles and responsibilities - FINISH SKILLS INVENTORY!!
-• begin stakeholder analysis 
 • establish an initial product backlog 
 • identify candidate major functionalities 
 
@@ -37,3 +36,6 @@ week 1
 • effective use of the GitHub/GitLab repository
 • clear evidence of group activity and contribution
 
+## FINISHED
+- begin stakeholder analysis 
+- FINISH SKILLS INVENTORY!!

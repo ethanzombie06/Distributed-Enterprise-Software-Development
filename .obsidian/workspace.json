@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "group_docs/Task.md",
+                "file": "group_docs/Product Backlog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task"
+              "title": "Product Backlog"
             }
           }
         ],
@@ -249,16 +249,17 @@
   },
   "active": "dd3fa7bae3113494",
   "lastOpenFiles": [
+    "group_docs/sprint_notes/Sprint One - Due 22nd October.md",
+    "group_docs/Product Backlog.md",
+    "group_docs/sprint_notes/Sprint Zero - Due 15th September.md",
+    "group_docs/Task.md",
     "group_docs/Stakeholder Analysis.md",
     "group_docs/Skills Inventory.md",
     "group_docs/Camunda learning prompts.md",
-    "group_docs/Task.md",
     "Proj.md",
     "spec/UFCFTR-30-3-First Sit-Task 1.pdf",
     "spec/Case Study - v2.pdf",
     "spec/Task-1-Use-Cases.pdf",
-    "group_docs/sprint_notes/Sprint Zero - Due 15th September.md",
-    "group_docs/sprint_notes/Sprint One - Due 22nd October.md",
     "group_docs/sprint_notes"
   ]
 }
